@@ -111,5 +111,6 @@
 	.im-list {
 		display: flex;
 		flex-direction: column;
+		background-color: #f0f0f0;
 	}
 </style>
