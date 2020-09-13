@@ -1,0 +1,19 @@
+{
+  "name": "im-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyChen-9102/im-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyChen-9102/im-demo/issues"
+  },
+  "homepage": "https://github.com/TonyChen-9102/im-demo#readme"
+}
